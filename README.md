@@ -6,10 +6,11 @@ This is a simple example of how to use Node.js, Express and TypeScript together.
 
 This project uses [pnpm](https://pnpm.io/) as the package manager.
 
-- PNPM Installation
-  ```bash
-  npm install -g pnpm
-  ```
+👉 PNPM Installation
+
+```bash
+npm install -g pnpm
+```
 
 ## Project Dependencies Installation
 
@@ -36,5 +37,5 @@ The app uses the following files for environment variables:
 
 ## Stay in touch
 
-- Author - [Mubashir](https://mhm13.dev)
-- Twitter - [@mhm13dev](https://twitter.com/mhm13dev)
+⚡ Author - [Mubashir](https://mhm13.dev)
+⚡ Twitter - [@mhm13dev](https://twitter.com/mhm13dev)
